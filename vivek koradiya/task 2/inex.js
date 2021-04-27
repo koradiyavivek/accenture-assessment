@@ -1,3 +1,4 @@
+// part 1
 Array.from(document.getElementsByTagName("a")).forEach(elm => {
     // if don't have href attribute then a tag is not a valid link
     if(!elm.href) return;
@@ -7,6 +8,7 @@ Array.from(document.getElementsByTagName("a")).forEach(elm => {
     }
 })
 
+// part 2
 Array.from(document.getElementsByTagName("a")).forEach(elm => {
     // if don't have href attribute then a tag is not a valid link
     if(!elm.href) return;
