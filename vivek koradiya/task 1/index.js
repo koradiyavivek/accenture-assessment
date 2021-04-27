@@ -2,7 +2,7 @@
 // https://www.indiatimes.com/news/
 
 // # The number of articles on the page
-
+// too complex to me
 
 // # The number of images on the page
 document.getElementsByTagName("img").length // I got 70
