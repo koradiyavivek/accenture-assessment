@@ -27,3 +27,5 @@ Array.from(document.getElementsByTagName("a")).forEach(elm => {
     }
 })
 console.log(exit_link_count) // after running the code I got 95
+
+// same code for google news site 
